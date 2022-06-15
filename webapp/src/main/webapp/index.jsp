@@ -31,7 +31,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thank you. If you think education is expensive try IGNORANCE </h1>
+   <h1>If you think education is expensive try IGNORANCE! Thank you. </h1>
 
   
 </form>
